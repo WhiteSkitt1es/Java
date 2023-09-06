@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3905bbb4-957e-4db5-bd00-83238cb07297" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetcodeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6_part_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_work_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_work_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_work_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_work_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_work_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_work_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Passports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2V1QpQ21T9ImiyE5adGkLWEaeah" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/paul/Desktop/Java/src",
+    "onboarding.tips.debug.path": "/Users/paul/Desktop/Java/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3905bbb4-957e-4db5-bd00-83238cb07297" name="Changes" comment="" />
+      <created>1694001288725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694001288725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
