@@ -1,65 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3905bbb4-957e-4db5-bd00-83238cb07297" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetcodeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6_part_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_work_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_work_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_work_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_work_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_work_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_work_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListEdit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Passports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test_code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
+    <list default="true" id="3905bbb4-957e-4db5-bd00-83238cb07297" name="Changes" comment="Java edited">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test_code.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2V1QpQ21T9ImiyE5adGkLWEaeah" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/paul/Desktop/Java/src",
-    "onboarding.tips.debug.path": "/Users/paul/Desktop/Java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/paul/Desktop/Java/src&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/paul/Desktop/Java/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Test_code">
+    <configuration name="FDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FDemo" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_code" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test_code" />
+        <item itemvalue="Application.FDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +76,20 @@
       <option name="presentableId" value="Default" />
       <updated>1694001288725</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java edited">
+      <option name="closed" value="true" />
+      <created>1694001438427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694001438427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java edited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
