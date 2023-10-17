@@ -5,25 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3905bbb4-957e-4db5-bd00-83238cb07297" name="Changes" comment="Java edited">
-      <change afterPath="$PROJECT_DIR$/src/Enumeration/TrafficLightDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enumeration/Transports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generalization/BoundsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generalization/GenDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generalization/GenIfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generalization/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generalization/IGenQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generalization/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generalization/SimGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generalization/Summation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/ExtendThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Suspend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Synch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/ThreadCom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/UseMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InstanseOfV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSwitch/ArrowSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSwitch/BlockArowSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSwitch/NewCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSwitch/StatementSwitchWithArrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSwitch/TraditionalSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSwitch/Yield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record/Item2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record/Item3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SealedClass/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SealedInterface/FruitIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/BlockLambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/ConstructorRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/GenericFunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaArgumentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/MethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/MethodRefDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/MethodRefDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/UsePredicateInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/VarCapture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test_code.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Record" />
         <option value="Class" />
         <option value="Interface" />
       </list>
@@ -53,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/paul/Desktop/Java/src&quot;,
@@ -63,14 +72,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/mymodapp/appsrc/appfuncs" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.GenQDemo">
-    <configuration name="BoundsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generalization.BoundsDemo" />
+  <component name="RunManager" selected="Application.InstanseOfV2">
+    <configuration name="BlockArowSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewSwitch.BlockArowSwitch" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generalization.*" />
+          <option name="PATTERN" value="NewSwitch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenConsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generalization.GenConsDemo" />
+    <configuration name="InstanseOfV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InstanseOfV2" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Record.ItemDemo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generalization.*" />
+          <option name="PATTERN" value="Record.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenIfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generalization.GenIfDemo" />
+    <configuration name="RecordDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Record.RecordDemo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generalization.*" />
+          <option name="PATTERN" value="Record.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,25 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenQDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generalization.GenQDemo" />
+    <configuration name="StatementSwitchWithArrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewSwitch.StatementSwitchWithArrows" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generalization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generalization.GenericMethod" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generalization.*" />
+          <option name="PATTERN" value="NewSwitch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenQDemo" />
-        <item itemvalue="Application.GenIfDemo" />
-        <item itemvalue="Application.GenConsDemo" />
-        <item itemvalue="Application.GenericMethod" />
-        <item itemvalue="Application.BoundsDemo" />
+        <item itemvalue="Application.InstanseOfV2" />
+        <item itemvalue="Application.RecordDemo" />
+        <item itemvalue="Application.ItemDemo" />
+        <item itemvalue="Application.StatementSwitchWithArrows" />
+        <item itemvalue="Application.BlockArowSwitch" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696231356866</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java edited">
+      <option name="closed" value="true" />
+      <created>1697115135030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697115135030</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
